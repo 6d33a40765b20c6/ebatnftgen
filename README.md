@@ -1,6 +1,7 @@
     EBAT NFT GENERATOR         
 - Скорость
 - Понятность
+
     Инструкция
 - Установить Python 3.9
 - Запустить файл install_libs.cmd
