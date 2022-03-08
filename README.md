@@ -1,6 +1,7 @@
     EBAT NFT GENERATOR         
 - Скорость
 - Понятность
+![alt text](./prew.jpg)
 ---
     Инструкция
 - Установить Python 3.9
